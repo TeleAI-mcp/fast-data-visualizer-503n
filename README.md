@@ -1,2 +1,3 @@
-# fast-data-visualizer-503n
-Repository to test GitHub automation for issue management
+# Fast Data Visualizer 503N
+
+A repository to test GitHub automation for issue management.
